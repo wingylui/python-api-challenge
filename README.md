@@ -4,7 +4,7 @@
 <b>Programming language:</b> Python <br />
 <b>Package used:</b> pandas, numpy, matplotlib, SciPy, requests, citipy, geoviews <br />
 <b>Main script:</b> [WeatherPy.ipynb](https://github.com/wingylui/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb), [VacationPy.ipynb](https://github.com/wingylui/matplotlib-challenge/blob/main/Pymaceuticals/pymaceuticals.ipynb) <br />
-<b>Dataset:</b> N/A
+<b>Dataset:</b> N/A <br />
 <b>APIs used:</b> [OpenWeather API](https://openweathermap.org/api), [Geoapify](https://www.geoapify.com/)
 
 ---
